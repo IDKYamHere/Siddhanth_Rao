@@ -3,7 +3,7 @@ This is the place to write stuff
 
 
 
-isert abcdef
+insert abcdef
 
 picture
 profile 
