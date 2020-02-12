@@ -2,10 +2,10 @@ Siddhanth Rao
 
 This is the place to write stuff
 
-
-
-insert abcdef
-
-picture
-profile 
-resume
+Insert Picture
+Numbers 
+work Expo
+Projects
+Skills
+Activites 
+Languages Spoken 
