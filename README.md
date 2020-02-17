@@ -2,15 +2,15 @@
 
 Basic things to add :     
 
-**Siddhanth Rao
+**Siddhanth Rao**
 
 Work Experience :
 
-*Nucleus Software Exports Ltd.
+*Nucleus Software Exports Ltd.*
 
 Education : 
 
-*Indian Institute of Information Technology, Allahabad.
+*Indian Institute of Information Technology, Allahabad.*
 
 This is the place to write stuff
 
