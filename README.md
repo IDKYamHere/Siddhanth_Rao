@@ -1,6 +1,4 @@
 ***First Draft of the Project***
-
-# A Basic Voice Enabled chat-bot in Python<br>
  
 ___
 
