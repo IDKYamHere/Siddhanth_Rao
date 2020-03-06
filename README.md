@@ -1,10 +1,9 @@
-***First Draft of the Project***
+***This is a template Repository***
  
 ___
 
-Basic things to add :     
-
-Siddhanth Rao
+You can use this repository to make your own CV/resume website.
+Hosting the webiste is absolutely free as we use Github's hosting service and every user gets 1 hosting website.
 
 ___
 
