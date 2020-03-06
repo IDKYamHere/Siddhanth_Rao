@@ -3,18 +3,17 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Siddhanth Rao
+title: Software Engineer
+email: siddhanth.rao@gmail.com | iit2016113@iiita.ac.in
+website: https://idkyamhere.github.io/Siddhanth_Rao/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  IDKYamHere
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+instagram_username: idkyamhere
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
