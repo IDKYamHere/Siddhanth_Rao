@@ -22,17 +22,17 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: Test ABCD
 
 # Projects Section
- projects_title: Project1
- projects_title: Project1
- projects_title: Project1
+# projects_title: Project1
+# projects_title: Project1
+# projects_title: Project1
 
 # Experience Section
- experience_title: Experience
+# experience_title: Experience
 
 # Education Section
- educaton_title: Indian Institute of Information Technology, Allahabad.
- educaton_title: Sri Chaitanya Junior Kalasala, Hyderabad.
- educaton_title: Gitanjali Devshala
+# educaton_title: Indian Institute of Information Technology, Allahabad.
+# educaton_title: Sri Chaitanya Junior Kalasala, Hyderabad.
+# educaton_title: Gitanjali Devshala
 
 # More Section
 # more_title: A Little More About Me
