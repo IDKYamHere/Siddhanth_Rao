@@ -3,11 +3,14 @@
 ___
 
 You can use this repository to make your own CV/resume website.
-Hosting the webiste is absolutely free as we use Github's hosting service and every user gets 1 free hosting website. (pages.github.com)
+
+Hosting the webiste is absolutely free as we use Github's hosting service and every user gets 1 free hosting website (pages.github.com)
 
 ___
 
- ## Creating the Github webiste : 
+ ## Creating the Github website : 
+
+pages.github.com
 
 Head over to GitHub and create a new repository named username.github.io 
 
