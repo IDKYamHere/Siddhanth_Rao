@@ -7,8 +7,9 @@
    Machine Learning Dev Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     Machine Learning Dev
-  
-    company: Bharat Electronics Limited.
+
+- layout: left
+  company: Bharat Electronics Limited.
   link: bel.com
   job_title: Project Intern
   dates: January 2020 - Present
