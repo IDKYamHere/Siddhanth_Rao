@@ -1,4 +1,4 @@
-***This is a template Repository***
+***A tutorial to make a Website-Resume and hosting it for Free***
 
 ___
 
@@ -21,18 +21,5 @@ Indian Institute of Information Technology, Allahabad.
 
 Gitanjali Devshala, Hyderabad.
 ___
-Insert Picture
-
-Numbers 
-
-work Expo
-
-Projects
-
-Skills
-
-Activites 
-
-Languages Spoken 
 
 
