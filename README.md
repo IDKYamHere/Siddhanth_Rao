@@ -10,9 +10,15 @@ ___
 
  ## Creating the Github website : 
 
-pages.github.com
+You can find a detailed tutorial on hosting your free webpage on : *pages.github.com*
 
-Head over to GitHub and create a new repository named username.github.io 
+**Step 1 :** 
+Head over to GitHub and create a new repository named username.github.io (try keeping your username short for convenience)
+
+**Step 2 :**
+Open the directory where you want to save the project and run the following command in your terminal: 
+
+```git clone https://github.com/username/username.github.io```
 
 ___
 Education : 
