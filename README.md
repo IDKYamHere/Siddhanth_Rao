@@ -28,12 +28,19 @@ Now enter the project directory and add the index.html file
 ```cd username.github.io```
 
 ```echo "Hello World" > index.html```
+
+**Step 4 :**
+Now add and push all your changes/commits.
+
+```git add --all```
+
+```git commit -m "Initial commit"```
+
+```git push -u origin master```
+
+**Step 5 :**
+You can find your website running at https://username.github.io/yourrepositoryname
+
+or go to the settings of your repo and scroll down, you can find the link to your website.
+
 ___
-Education : 
-
-Indian Institute of Information Technology, Allahabad.
-
-Gitanjali Devshala, Hyderabad.
-___
-
-
