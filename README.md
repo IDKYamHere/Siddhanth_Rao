@@ -39,7 +39,8 @@ Now add and push all your changes/commits.
 ```git push -u origin master```
 
 **Step 5 :**
-You can find your website running at https://username.github.io/yourrepositoryname
+You can find your website running at _username.github.io/yourrepositoryname_
+
 [example : https://idkyamhere.github.io/Siddhanth_Rao/]
 
 or go to the settings of your repo and scroll down, you can find the link to your website.
