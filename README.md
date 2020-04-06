@@ -15,6 +15,8 @@ You can find a detailed tutorial on hosting your free webpage on : *pages.github
 **Step 1 :** 
 Head over to GitHub and create a new repository named username.github.io (try keeping your username short for convenience)
 
+_username = your github username_
+
 **Step 2 :**
 Open the directory where you want to save the project and run the following command in your terminal: 
 
