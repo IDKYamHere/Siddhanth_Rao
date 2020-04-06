@@ -20,6 +20,12 @@ Open the directory where you want to save the project and run the following comm
 
 ```git clone https://github.com/username/username.github.io```
 
+**Step 3 :**
+Now enter the project directory and add the index.html file
+
+```cd username.github.io```
+
+```echo "Hello World" > index.html```
 ___
 Education : 
 
