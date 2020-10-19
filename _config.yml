@@ -1,16 +1,16 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/80429-spiderman-art-angle-deadpool-pixel-free-clipart-hq.png
+#repository: sproogen/resume-theme
+#favicon: images/80429-spiderman-art-angle-deadpool-pixel-free-clipart-hq.png
 
 # Personal info
-name: Siddhanth Rao
-title: Software Engineer
-email: siddhanthrao5858@gmail.com
-website: https://idkyamhere.github.io/Siddhanth_Rao/
+#name: Siddhanth Rao
+#title: Software Engineer
+#email: siddhanthrao5858@gmail.com
+#website: https://idkyamhere.github.io/Siddhanth_Rao/
 
 # Social links
 #twitter_username: twitter_username
-github_username:  IDKYamhere #github_username
+#github_username:  IDKYamhere #github_username
 # dribbble_username: dribble_username
 # facebook_username: Siddhanth Rao#facebook_username
 # flickr_username: ficklr_username 
@@ -22,11 +22,11 @@ github_username:  IDKYamhere #github_username
 
 # About Section
 # about_title: About Me
-about_profile_image: images/image.jpg
-about_content: | # this will include new lines to allow paragraphs
-  My name's Siddhanth Rao. A final year undergraduate student at Indian Institute of Information Technology, Allahabad. I am also presently working as an intern for Nucleus Software Exports Ltd.
+#about_profile_image: images/image.jpg
+#about_content: | # this will include new lines to allow paragraphs
+ # My name's Siddhanth Rao. A final year undergraduate student at Indian Institute of Information Technology, Allahabad. I am also presently working as an intern for Nucleus Software Exports Ltd.
 
-  I am a tech enthusiast, always wanting to get my hands-on the latest gadgets. 
+ # I am a tech enthusiast, always wanting to get my hands-on the latest gadgets. 
 
 # Projects Section
 # projects_title: Projects
@@ -39,21 +39,21 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in tech and software engineering some of my other interests and hobbies are:
-   - Gaming
-   - Basketball
-   - Trekking
+#more_content: | # this will include new lines to allow paragraphs
+ # Alongside my interests in tech and software engineering some of my other interests and hobbies are:
+  # - Gaming
+   #- Basketball
+   #- Trekking
    
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+ # sass_dir: _sass
+  #style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
